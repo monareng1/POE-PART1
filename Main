@@ -1,4 +1,4 @@
-ackage com.mycompany.main.java;
+package com.mycompany.main.java;
 
 import java.util.Scanner;
 
